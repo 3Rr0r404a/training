@@ -3,7 +3,7 @@ how many swaps and itrerations it was needed"""
 
 
 def bubblesort(data):
-    """Sort an array in non-decreasing order."""
+    """Sort an array in non-decreasing order"""
     temp = data.split("\n")
     repets = int(temp[0])
     temp = temp[1].split(" ")
